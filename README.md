@@ -98,5 +98,3 @@ Shruti Dhange - shrutidhange@gmail.com
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
-
-<
